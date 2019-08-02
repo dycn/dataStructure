@@ -18,4 +18,3 @@
      1. [单链表](section4.md)
      2. [双链表](../chapter3/section1.md)
      3. [循环链表](../chapter3/section2.md)
-     4. 
