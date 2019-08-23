@@ -25,5 +25,17 @@
                 j++; k++;
             }
         }
+
+        while(i< LA->length)
+        {
+            LC->data[k] = LA->data[i];
+            i++; k++;
+        }
+
+        while(j < LB->length)
+        {
+            LC->data[k] = LB->data[j];
+            j++; k++;
+        }
     }
     ```
