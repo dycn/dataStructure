@@ -6,7 +6,7 @@
   - LA = (1, 3, 5), LB = (2, 4, 6, 8)
   - 两个变量i，j分别指向LA、LB
   - 比较大小，将较大或较小的移到LC，移动对应的i或j
-  - LA、LB每个元素刚好遍历一次，时间复杂度为O(m+n)
+  - LA、LB每个元素刚好遍历一次，时间复杂度为O(m+n),空间复杂度是O(m+n)
   - ```
     void UnionList(SqList *LA, SqList *LB, SqList *&LC)
     {
