@@ -1,4 +1,4 @@
-# 逻辑结构类型
+# 第一章第2讲 逻辑结构类型
 - 集合
   - 属于同一个集合外没有其他逻辑关系，最松散不受制约的关系
 - 线性
@@ -56,3 +56,5 @@ func Add(z1 Complex, z2 Complex, &sum *Complex){
     sum.Imag = z1.Imag + z2.Imag
 }
 ```
+
+## [下一讲](section3.md)

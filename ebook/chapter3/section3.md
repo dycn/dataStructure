@@ -1,4 +1,4 @@
-# 线性表的应用
+# 第三章第3讲 线性表的应用
 ## 两个表的自然连接
 - ![表的自然连接](https://github.com/DengyuanCheung/dataStructure/blob/master/ebook/chapter3/section3-1.jpg?raw=true))
 - 数据组织
@@ -80,4 +80,4 @@
   - ![运行结果](section3-5.png)
 
 
-## [下一节](section4.md)
+## [下一讲](section4.md)
