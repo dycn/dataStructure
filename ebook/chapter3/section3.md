@@ -1,6 +1,6 @@
 # 线性表的应用
 ## 两个表的自然连接
-- ![表的自然连接](section3-1.jpg)
+- ![表的自然连接](https://github.com/DengyuanCheung/dataStructure/blob/master/ebook/chapter3/section3-1.jpg?raw=true)
 - 数据组织
   - ![数据组织](section3-2.png)
 - 算法实现
