@@ -1,4 +1,5 @@
-# 线性表的基本概念
+# 第二章第1讲 
+## 线性表的基本概念
 - 线性表的定义
   - 线性表是一个具有相同特性的数据元素的有限序列
   - 逻辑表示 (a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>i</sub>, ..., a<sub>n</sub>)
@@ -18,3 +19,5 @@
      1. [单链表](section4.md)
      2. [双链表](../chapter3/section1.md)
      3. [循环链表](../chapter3/section2.md)
+
+## [下一讲](section2.md)
