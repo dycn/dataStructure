@@ -8,5 +8,15 @@
 ---
 [目录在此](ebook/list.md) 
 
+---
+## 数据结构
+- 最高层只有两种，```数组```和```队列```
 
 
+- 队列
+  - Queue() 构造器
+  - Front 队首元素
+  - Rear 队尾元素
+  - enQueue() 入队
+  - deQueue() 出队
+  - isEmpty() 
